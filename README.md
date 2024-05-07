@@ -14,7 +14,7 @@
 
 <div align="center">
   
-
+![Captura de tela de 2024-05-06 23-05-40](https://github.com/julianakcmelo/SocketSect/assets/168940325/772605a8-497e-4e38-8e5c-312ba791625b)
 
 </div>
 
